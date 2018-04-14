@@ -1,8 +1,8 @@
 # petshop_kubernetes
 
-These repositories are the implementations that corresponds to a series of Whitepapers written to 
-detail how developed can take a legacy ASP.NET application, developed as a monolith, and redesign, re-architect,
-and re-platform them to run as a cloud-native application using microservices architecture and Kubernetes.
+These repositories are the implementations that correspond to a series of whitepapers written to 
+detail how developers can take a legacy ASP.NET application, developed as a monolith, and redesign, re-architect,
+and re-platform it to run as a cloud-native application using microservices architecture and Kubernetes.
 
 An introduction to the series can be found here on the Google Cloud Platform Blog:
 
